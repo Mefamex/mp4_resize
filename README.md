@@ -1,9 +1,9 @@
 # mp4_resize
 This Python script resizes a video using the MoviePy library. The script prints the current directory, loads the video, sets its height to 720 pixels, and writes the resized video to a new file.
-## Discussion
+#### Discussion
 If you have any questions or feedback , please feel free to contact me [Instagram](https://www.instagram.com/mefamex/).
-## Contributors
-* [Mefamex](https://github.com/Mefamex)
+#### Contributors
+* GITHUB [Mefamex](https://github.com/Mefamex)
 
 # Requirements
 - Python 3.6 or later
@@ -11,13 +11,11 @@ If you have any questions or feedback , please feel free to contact me [Instagra
 
 # Installation
 - You can install the MoviePy library using pip:
-
 ``Bash
 pip install moviepy``
 
 # Usage
 To run the script, use the following command:
-
 ``Bash
 python mp4_resize.py``
 
