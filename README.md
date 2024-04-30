@@ -8,14 +8,14 @@ This Python script resizes a video using the MoviePy library. The script prints 
 # Installation
 - You can install the MoviePy library using pip:
 
-'''Bash
-pip install moviepy'''
+``Bash
+pip install moviepy``
 
 # Usage
 To run the script, use the following command:
 
-'''Bash
-python resize_video.py'''
+``Bash
+python resize_video.py``
 
 This will print the current directory, load the video from the file "a.mp4", set the video's height to 720 pixels, and write the resized video to the file "movie_resized.mp4" .
 
